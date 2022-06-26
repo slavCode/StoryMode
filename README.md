@@ -3,8 +3,8 @@ A general assignment in the SoftUni's C# Advanced, C# OOP Basics and Advanced co
 Read the resources for the specified course for more info. 
 
 The project resembles a small bash-like terminal program, which has the following functions:
-- `cdabs` - Changes the absolute path
-- `cdrel` - Changes the relative path
+- `cdAbs` - Changes the absolute path
+- `cdRel` - Changes the relative path
 - `cmp` - Compares two files
 - `filter` - Filters students by courses
 - `help` - Shows help menu
