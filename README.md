@@ -6,8 +6,6 @@ The project resembles a small bash-like terminal program, which has the followin
 - `cdabs` - Changes the absolute path
 - `cdrel` - Changes the relative path
 - `cmp` - Compares two files
-- `display` - Prints on the console all courses/students in ascending/descending order
-- `dropdb` - Drop database
 - `filter` - Filters students by courses
 - `help` - Shows help menu
 - `ls` - Traverse folder
@@ -15,7 +13,7 @@ The project resembles a small bash-like terminal program, which has the followin
 - `open` - Opens file
 - `order` - Orders students in courses
 - `quit` - Closes the program
-- `readdb` - Reads database
+- `readDb` - Reads database
 - `show` - Shows all students in course
 
 ## Project tasks for course:
