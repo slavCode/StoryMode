@@ -18,7 +18,7 @@ The project resembles a small bash-like terminal program, which has the followin
 - `readdb` - Reads database
 - `show` - Shows all students in course
 
-## Project tasks for each course:
+## Project tasks for course:
 
 ### C# Advanced
 
